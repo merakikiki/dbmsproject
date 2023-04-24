@@ -1,0 +1,41 @@
+THEID,VARIATIONID,THEVALUE
+1,1,XS
+2,1,S
+3,1,M
+4,1,L
+5,1,XL
+6,1,XXL
+7,1,XXXL
+8,2,Black
+9,2,White
+10,2,Grey
+11,2,Pale
+12,2,Light Blue
+13,2,Yellow
+14,2,Rose Pink
+15,2,Red
+16,2,Brown
+17,2,Lavender
+18,2,Sage Green
+19,2,Beige
+20,2,Lilac
+21,2,Navy
+22,2,Light Coral
+23,2,Dark Green
+24,2,Camel
+25,2,Peachy
+26,2,Tawny
+27,3,Acrylic
+28,3,Merino
+29,3,Cotton
+30,3,Mohair
+31,3,Polyester
+32,3,Alpaca
+33,3,Silk
+34,3,Linen
+35,3,Nylon
+36,3,Bamboo textile
+37,3,Cashmere
+38,3,Llama
+39,3,Hemp
+40,3,Wool

@@ -1,0 +1,103 @@
+THEID,CATEGORY_ID,NAME,PRODUCT_DESC
+1,1,Crocheted froggy-hat,Crocheted green froggy-hat
+2,1,Crocheted teddy-hat,Crocheted brown teddy-hat
+3,2,Crocheted leg-warmers,Crocheted milky-white leg warmers
+4,3,Crocheted scarf,Crocheted red long winter scarf
+5,4,Crocheted sweater,Crocheted sweater
+6,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini cherry embroidery
+7,6,Crocheted tote-bag,Crocheted tote-bag
+8,7,Crocheted lacy headband,Crocheted lacy headband
+9,7,Crocheted checkered headband,Crocheted checkered sage-white headband
+10,8,Crocheted victorian wrist-warmers,Crocheted lacy beige Victorian wrist-warmers
+11,9,Crocheted froggy-photocard holder,Crocheted Froggy-photocard holder
+12,10,Crocheted crop-top,Crocheted sage crocheted crop-top
+13,1,Crocheted beannie hat,Crocheted striped beannie hat
+14,11,Crocheted bobby-clutch,Crocheted pink bobby-clutch
+15,11,Crocheted tulip-clutch,Crocheted red tulip-clutch
+16,12,Crocheted scrunchies,Crocheted yellow scrunchies
+17,13,Crocheted headphone pouch,Crocheted white headphone pouch with blueberries
+18,14,Crocheted ring,Crocheted yellow ring
+19,14,Crocheted ring,Crocheted red heart ring
+20,15,Crocheted froggy-keychain,Crocheted little green froggy-keychain
+21,16,Crocheted rose bookmark,Crocheted rose bookmark
+22,16,Crocheted lotte lace bookmark,Crocheted beige lotte lace bookmark
+23,16,Crocheted leaf bookmark,Crocheted green leaf bookmark
+24,17,Crocheted little amigurumi bee plushy,Crocheted little amigurumi bee plushy
+25,18,Crocheted love-letter bookcase,Crocheted red-heart love-letter bookcase
+26,18,Crocheted tulip-flowers bookcase,Crocheted red-tulip-flowers bookcase
+27,18,Crocheted simple bookcase,Crocheted white simple bookcase with magnetic-button
+28,19,Crocheted cake accessories-holder,Crocheted cake accessories-holder
+29,20,Crocheted lacy choker necklace,Crocheted white lacy choker necklace
+30,1,Crocheted cat beannie hat,Crocheted white cat beannie hat
+31,4,Crocheted polo sweaters,Crocheted blue-whate banded polo sweaters
+32,12,Crocheted rabbit ears scrunchies,Crocheted white rabbit ears scrunchies
+33,21,Crocheted WINX costume,Crocheted Floras WINX costume
+34,21,Crocheted WINX costume,Crocheted Stellas WINX costume
+35,21,Crocheted WINX costume,Crocheted Blooms WINX costume
+36,21,Crocheted WINX costume,Crocheted Leilas WINX costume
+37,1,Crocheted Finns hat,Crocheted Finns hat from Adventures time
+38,6,Crocheted checkered tote bag,Crocheted pink-white checkered tote bag
+39,6,Crocheted heart tote bag,Crocheted pink-heart checkered tote bag
+40,6,Crocheted Earth planet tote bag,Crocheted white Earth planet tote bag
+41,7,Crocheted simple headbands,Crocheted simple sage headbands
+42,8,Crocheted simple wrist-warmers,Crocheted simple sage wrist-warmers
+43,15,Crocheted strawberry-daisy keychain,Crocheted strawberry-daisy keychain
+44,22,Crocheted lavender bouquet,Crocheted lavender bouquet
+45,22,Crocheted tulip bouquet,Crocheted tulip bouquet
+46,22,Crocheted sunflower bouquet,Crocheted sunflower bouquet
+47,22,Crocheted chamomile bouquet,Crocheted chamomile bouquet
+48,22,Crocheted roses bouquet,Crocheted roses bouquet
+49,22,Crocheted bouquet: composition of mini-flowers,Crocheted bouquet: composition of mini-flowers
+50,23,Crocheted mittens,Crocheted white warm mittens
+51,24,Crocheted polo-collar,Crocheted white polo-collar
+52,1,Crocheted pie-beret-hat,Crocheted pie-beret-hat
+53,17,Crocheted mini-sheep plushy,Crocheted mini-sheep plushy
+54,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini lavender and bees embroidery
+55,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini sheep embroidery
+56,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini cute dinosaurs embroidery
+57,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini sunflower and sun embroidery
+58,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini strawberries embroidery
+59,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini milky-way planet embroidery
+60,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini chamomile embroidery
+61,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini bees embroidery
+62,5,Handmade tote-bag with embroidery,Handmade tote-bag with cats embroidery
+63,15,Crocheted penguin-keychain,
+64,15,Crocheted duck-keychain,Crocheted duck-keychain
+65,15,Crocheted melody-keychain,Crocheted melody-keychain
+66,15,Crocheted kuromi-keychain,Crocheted kuromi-keychain
+67,17,Crocheted octopus plushy,Crocheted orange octopus plushy
+68,17,Crocheted frog plushy,Crocheted frog flushy
+69,17,Crocheted bear plushy,Crocheted bear plushy
+70,17,Crocheted whale plushy,Crocheted whale plushy
+71,25,Crocheted mini-heart earrings,Crocheted red mini-heart earrings
+72,7,Crocheted 3D mini-strawberries headband,Crocheted 3D mini-strawberries headband
+73,26,Crocheted strawberry hairclips,Crocheted strawberry hairclips
+74,26,Crocheted cherry hairclips,Crocheted cherry hairclips
+75,19,Crocheted simple round-shaped accessories-holder,Crocheted simple round-shaped blue accessories-holder
+76,19,Crocheted heart-shaped accessories-holder,Crocheted red heart-shaped accessories-holder
+77,19,Crocheted simple square-shaped accessories-holder,Crocheted simple square-shaped blue accessories-holder
+78,19,Crocheted checkered square-shaped accessories-holder,Crocheted checkered red-white square-shaped accessories-holder
+79,10,Crocheted checkered crop-top,Crocheted checkered blue-white crop-top
+80,10,Crocheted assymetric-checkered crop-top,Crocheted assymetric-checkered blue-lightblue-white crop-top
+81,10,Crocheted unique crop-top,Crocheted unique crop-top
+82,27,Crocheted unique crop-top and blouses set,Crocheted unique crop-top and blouses set
+83,3,Crocheted scarf,Crocheted multi-coloured scarf
+84,4,Crocheted blouse,Crocheted white lacy blouse
+85,16,Crocheted froggy-bookmarks,Crocheted froggy-bookmarks
+86,16,Crocheted coffee-bookmarks,Crocheted coffee-bookmarks
+87,3,Crocheted minecraft creeper scarfs,Crocheted minecraft creeper scarfs
+88,16,Crocheted snoopy bookmarks,Crocheted snoopy bookmarks
+89,17,Crocheted pug plushy,Crocheted pug plushy
+90,25,Crocheted tomato earrings,Crocheted tomato earrings
+91,6,Crocheted shell-stitch tote-bag,Crocheted shell-stitch tote-bag
+92,6,Crocheted assymetric-squares tote-bag,Crocheted assymetric-squares tote-bag
+93,6,Crocheted avoska bag,Crocheted avoska bag
+94,5,Handmade tote-bag with embroidery,Handmade tote-bag with heart embroidery
+95,5,Handmade tote-bag with embroidery,Handmade tote-bag with mini-bird and bird steps embroidery
+96,17,Crocheted dinosaur plushy,Crocheted dinosaur plushy
+97,17,Crocheted alpaca plushy,Crocheted alpaca plushy
+98,15,Crocheted duckzilla keychain,Crocheted duckzilla keychain
+99,2,Crocheted leg-warmers with ponpons,Crocheted white leg-warmers with pink ponpons
+100,8,Crocheted cat-paw wrist-warmers,Crocheted cat-paw wrist-warmers
+103,9,Custom,customization
+105,9,Custom,customization

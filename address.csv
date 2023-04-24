@@ -1,0 +1,101 @@
+THEID,UNITNUMBER,STREETNUMBER,ADDRESSLINE1,CITY,REGION,POSTALCODE,COUNTRYID
+1,1,101,Altyn-Auyl,Kaskelen,Almaty,50051,1
+2,2,102,Altyn-Taga,Kaskelen,Almaty,50051,1
+3,3,103,Asyl-Arman,Kaskelen,Almaty,50051,1
+4,4,104,Arnau,Kaskelen,Almaty,50051,1
+5,5,105,Manhattan,Almaty,Almaty,50051,1
+6,6,106,Jupiter-1,Almaty,Almaty,50051,1
+7,7,107,Jupiter-2,Almaty,Almaty,50051,1
+8,8,108,Al-Farabi,Almaty,Almaty,50051,1
+9,9,109,Medeu,Almaty,Almaty,50051,1
+10,10,110,Bostandyk,Almaty,Almaty,50051,1
+11,11,111,Nauryzbays,Almaty,Almaty,50051,1
+12,12,112,Nurdy-Dala,Almaty,Almaty,50051,1
+13,13,113,Sensata City,Almaty,Almaty,50051,1
+14,14,114,Zhailau,Almaty,Almaty,50051,1
+15,15,115,Rams Signature,Almaty,Almaty,50051,1
+16,16,116,Almalyn,Almaty,Almaty,50051,1
+17,17,117,Elite Life,Almaty,Almaty,50051,1
+18,18,118,Jetisu Park,Almaty,Almaty,50051,1
+19,19,119,Esentai City,Almaty,Almaty,50051,1
+20,20,120,Exclusive Time,Almaty,Almaty,50051,1
+21,21,121,Zarya,Almaty,Almaty,50051,1
+22,22,122,Ush Qonyr,Almaty,Almaty,50051,1
+23,23,123, City,Almaty,Almaty,50051,1
+24,24,124,AlmaCity,Almaty,Almaty,50051,1
+25,25,125,Tamarix City,Almaty,Almaty,50051,1
+26,26,126,Comfort City,Almaty,Almaty,50051,1
+27,27,127,Shahar City,Almaty,Almaty,50051,1
+28,28,128,Koktobe City,Almaty,Almaty,50051,1
+29,29,129,Lancanshire,Almaty,Almaty,50051,1
+30,30,130,Metropole,Almaty,Almaty,50051,1
+31,31,131,Legenda,Almaty,Almaty,50051,1
+32,32,132,Luxemburg,Almaty,Almaty,50051,1
+33,33,133,Riviera,Almaty,Almaty,50051,1
+34,34,134,Aquarel,Almaty,Almaty,50051,1
+35,35,135,Assem Plaza,Almaty,Almaty,50051,1
+36,36,136,BlackBerry Hills,Almaty,Almaty,50051,1
+37,37,137,Amir,Almaty,Almaty,50051,1
+38,38,138,Amal,Almaty,Almaty,50051,1
+39,39,139,Alatau Golf Residences,Almaty,Almaty,50051,1
+40,40,140,Parasat,Almaty,Almaty,50051,1
+41,41,141,Parasat 2,Almaty,Almaty,50051,1
+42,42,142,Sholpan City,Almaty,Almaty,50051,1
+43,43,143,Dinasty,Almaty,Almaty,50051,1
+44,44,144,Abay,Atyrau,Atyrau,50052,1
+45,45,145,Moskovsk,Atyrau,Atyrau,50052,1
+46,46,146,Saraishyq,Atyrau,Atyrau,50052,1
+47,47,147,Talan,Atyrau,Atyrau,50052,1
+48,48,148,Nursaya Plaza,Atyrau,Atyrau,50052,1
+49,49,149,Sunkar,Atyrau,Atyrau,50052,1
+50,50,150,Inder,Atyrau,Atyrau,50052,1
+51,51,151,Isatay,Atyrau,Atyrau,50052,1
+52,52,152,Kurmangazy,Atyrau,Atyrau,50052,1
+53,53,153,Mahambet,Atyrau,Atyrau,50052,1
+54,54,154,Amangeldi,Kulsary,Atyrau,50052,1
+55,55,155,Zhylyoi,Kulsary,Atyrau,50052,1
+56,56,156,Borovoe,Kulsary,Atyrau,50052,1
+57,57,157,Burabay,Kulsary,Atyrau,50052,1
+58,58,158,Atshabar,Taraz,Zhambyl,50053,1
+59,59,159,Binom,Taraz,Zhambyl,50053,1
+60,60,160,Nurly-Tan,Taraz,Zhambyl,50053,1
+61,61,161,Asyl-Tas,Taraz,Zhambyl,50053,1
+62,62,162,Balasagun,Taraz,Zhambyl,50053,1
+63,63,163,Charonne,Paris,Paris,75001,2
+64,64,164,Montparnasse,Paris,Paris,75001,2
+65,65,165,La Villette,Paris,Paris,75001,2
+66,66,166,Montmarte,Paris,Paris,75001,2
+67,67,167,Boulevard Ring,Moscow,Moscow,101000,3
+68,68,168,Downtown,Saint Petersburg,Leningradskaya,101000,3
+69,69,169,Ryazan,Novosibirsk,Novosibirsk,101000,3
+70,70,170,Sanlitun,Beijing,Hebei Province,213000,4
+71,71,171,Lujiazui,Shanghai,Eastern Region,213000,4
+72,72,172,Altstadt,Munich,Bavaria,10117,5
+73,73,173,Mitte,Bremen,Bremen,10117,5
+74,74,174,Mellerud,Mellerud,Dalsland,98499,6
+75,75,175,Visby,Visby,Gotland,98499,6
+76,76,176,Downton,Gangneung-Si,Gangwon,121270,7
+77,77,177,Geumsusan,Jecheon-si,Chungcheong,121270,7
+78,78,178,Batken District,Batken,Batken,720004,8
+79,79,179,Chatkal Valley,Jalal-Abad,Jalal-Abad,720004,8
+80,80,180,Balykchy,Balykchy,Issykkul,720004,8
+81,81,181,Mastchoh,Buston,Sughd,735,9
+82,82,182,Qurghonteppa,Qurghonteppa,Khatlon,735,9
+83,83,183,Old Town,Tashkent,Takshent,100123,10
+84,84,184,Gullanbog,Khiva,Khorezm,100123,10
+85,85,185,Residential,Trenton,Appalachian Plateu,30023,11
+86,86,186,Suburbs,Grozny,Greater Caucasus,364014,12
+87,87,187,Downtown,Shali,Greater Caucasus,364014,12
+88,88,188,Ajyad,Mecca,Mecca Province,76313,13
+89,89,189,Business district,Istanbul,Marmara,34379,14
+90,90,190,Clementi,Jurong West,West Region,520147,15
+91,91,191,Downtown,Rome,Lazio Region,56121,16
+92,92,192,Suburbs,Manaus,North Region,69000000,18
+93,93,193,Retiro,Madrid,Madrid Region,8830,17
+94,94,194,Plaza de Armas,Cusco,Andes,67001,19
+95,95,195,Complexe le Tropical,Oujda,Oriental Region,20430,20
+96,96,196,Pescara Center,Pescara,Abruzzo,56121,16
+97,97,197,Downtown,Izmir,Aegean Region,34379,14
+98,98,198,Mosque,Argun,Greater Caucasus,364014,12
+99,99,199,Mosque,Medina,Medina Region,76313,13
+100,100,100,Shahrtuz,Shahrtuz,Khatlon,735,9
