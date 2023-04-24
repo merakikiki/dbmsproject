@@ -1,6 +1,7 @@
 ------------------------------------procedure with rowcount-------------------------------
-DECLARE
-  numberOfSales NUMBER;
+Create or replace procedure num_of_sales
+as
+numberOfSales NUMBER;
   CURSOR products_cursor IS SELECT * FROM product where category_id = 1;
 BEGIN
   FOR prod IN products_cursor
@@ -15,3 +16,8 @@ BEGIN
   
   DBMS_OUTPUT.PUT_LINE('Now the price is reduced by 30% for ' ||  numberOfSales || ' products');
 END;
+
+to check-->
+begin
+num_of_sales();
+end;
